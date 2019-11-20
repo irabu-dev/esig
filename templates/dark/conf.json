@@ -1,11 +1,11 @@
 {
   "id": "dark",
   "signature": "Best regards,",
-  "name": "The dark mail team",
-  "contactMain": "Call <a href='tel:004580100100'><span>(45) 80100100</span></a> or email us at",
-  "contactMail": "info@dark.dk",
-  "slogan": "LED Pylon. LED Wall. Digital Signage.",
-  "logoUrl": "/assets/dark.png",
-  "logoAlt": "dark logo",
-  "website": "http://dark.dk"
+  "name": "Emmanuel Evance",
+  "contactMain": "Call <a href='tel:+255686204086'><span>(255) 686204086</span></a> or email me at",
+  "contactMail": "emmanuel@gorocket.co",
+  "slogan": "Chief Technology Officer.",
+  "logoUrl": "/assets/rocket.png",
+  "logoAlt": "gorocket logo",
+  "website": "https://gorocket.co"
 }

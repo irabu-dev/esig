@@ -1,13 +1,13 @@
 {
   "id": "light",
   "signature": "Yours truly,",
-  "name": "The light mail team",
-  "welcome": "Hi there,",
-  "introParagraph": "Thanks for writing up this email.<br/> We are delighted to reply with a responsive template.",
-  "contactMain": "Call <a href='tel:80100100'><span>80100100</span></a> or email us at",
-  "contactMail": "info@light.dk",
-  "contactSecondary": "<a href='https://mapurl.com'><span>Happy Steet 31, DK-8000 Aarhus C, Denmark</span></a>",
-  "logoUrl": "/assets/light.png",
-  "logoAlt": "light logo",
-  "website": "http://light.dk"
+  "name": "Emmanuel Evance",
+  "welcome": "CONFIDENTIALITY NOTICE",
+  "introParagraph": "This email, including any attachments, may contain information that is confidential and privileged. Any unauthorized disclosure, copying or use of this email is prohibited. If you are not the intended recipient, please notify us by reply email or telephone call and permanently delete this email and any copies immediately. <br/><br/> Please consider the environment before printing this e-mail.",
+  "contactMain": "Call <a href='tel:+255686204086'><span>(255)686204086</span></a> or email me at",
+  "contactMail": "emmanuel@gorocket.co",
+  "contactSecondary": "<a href='https://g.page/irabu-kiota?share'><span>Irabu Systems | Kiotani, Dar es Salaam, Tanzania</span></a>",
+  "logoUrl": "/assets/rocket.png",
+  "logoAlt": "gorocket logo",
+  "website": "https://gorocket.co"
 }
